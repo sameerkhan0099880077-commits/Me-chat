@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Me chat",
+    "slug": "Me-chat",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.sameerkhan.mechat"
+    }
+  }
+}
