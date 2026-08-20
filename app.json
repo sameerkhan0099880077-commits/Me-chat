@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Me chat",
+    "slug": "me-chat-",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.sameerkhan.mechat"
+    },
+    "sdkVersion": "51.0.0",
+    "platforms": ["ios", "android"],
+    "plugins": [
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-3940256099942544~3347511713"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a1487dec-4562-417e-bf66-3b2f58fa5d00"
+      }
+    }
+  }
+}
