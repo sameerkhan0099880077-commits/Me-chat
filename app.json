@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Me chat",
+    "slug": "Me-chat",
+    "version": "1.0.0",
+    "plugins": [
+      
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "YOUR_ANDROID_MOB_APP_ID",
+          "iosAppId": "YOUR_IOS_MOB_APP_ID"
+        }
+      
+    ]
+  }
+}
