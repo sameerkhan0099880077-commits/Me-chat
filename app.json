@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Me chat",
+    "slug": "me-chat-",
+    "version": "1.0.0",
+    "owner": "sameerkhan31",
+    "sdkVersion": "51.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sameerkhan.mechat"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a1487dec-4562-417e-bf66-3b2f58fa5d00"
+      }
+    }
+  }
+}
